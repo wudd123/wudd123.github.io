@@ -6,7 +6,7 @@ var mapLoaded = false,
     map;
 /*---------------Google Maps Scripts-------------------------*/
 function initMap() {
- 
+
 }
 
 function showPage(bt, pagename) {
